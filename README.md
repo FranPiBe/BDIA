@@ -7,6 +7,7 @@ Este repositorio contiene material de apoyo para la materia **Bases de Datos e I
 - `clase_1` a `clase_6` &mdash; Carpeta por clase con diapositivas y recursos adicionales.
 - `TP_FINAL` &mdash; Recursos para el trabajo práctico final. Incluye subcarpetas para MongoDB, Neo4J y Postgres.
 - `Bigdata-Hadoop-Spark.pptx` &mdash; Presentación introductoria de Big Data con Hadoop y Spark.
+- `Nuevo enfoque` &mdash; Carpeta en experimentación con un README vacío y una subcarpeta `contexto`.
 
 ### Descripción breve de las clases
 
